@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ssms.member.app")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08a232f255f1edb5c28d4295a6b9a08870e0786f")]
 [assembly: System.Reflection.AssemblyProductAttribute("ssms.member.app")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ssms.member.app")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -9,3 +9,4 @@
 /Users/joseninogarcia/Documents/ssms-member-app/ssms.member.domain/obj/Debug/net10.0/refint/ssms.member.domain.dll
 /Users/joseninogarcia/Documents/ssms-member-app/ssms.member.domain/obj/Debug/net10.0/ssms.member.domain.pdb
 /Users/joseninogarcia/Documents/ssms-member-app/ssms.member.domain/obj/Debug/net10.0/ref/ssms.member.domain.dll
+/Users/joseninogarcia/Documents/ssms-member-app/ssms.member.domain/obj/Debug/net10.0/ssms.member.domain.sourcelink.json

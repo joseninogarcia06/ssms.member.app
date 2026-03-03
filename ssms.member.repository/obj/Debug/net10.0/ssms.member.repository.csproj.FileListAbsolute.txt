@@ -15,3 +15,4 @@
 /Users/joseninogarcia/Documents/ssms-member-app/ssms.member.repository/obj/Debug/net10.0/ssms.member.repository.pdb
 /Users/joseninogarcia/Documents/ssms-member-app/ssms.member.repository/obj/Debug/net10.0/ssms.member.repository.genruntimeconfig.cache
 /Users/joseninogarcia/Documents/ssms-member-app/ssms.member.repository/obj/Debug/net10.0/ref/ssms.member.repository.dll
+/Users/joseninogarcia/Documents/ssms-member-app/ssms.member.repository/obj/Debug/net10.0/ssms.member.repository.sourcelink.json
