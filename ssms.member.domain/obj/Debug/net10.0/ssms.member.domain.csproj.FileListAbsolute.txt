@@ -1,0 +1,11 @@
+/Users/joseninogarcia/Documents/ssms-member-app/ssms.member.domain/bin/Debug/net10.0/ssms.member.domain.deps.json
+/Users/joseninogarcia/Documents/ssms-member-app/ssms.member.domain/bin/Debug/net10.0/ssms.member.domain.dll
+/Users/joseninogarcia/Documents/ssms-member-app/ssms.member.domain/bin/Debug/net10.0/ssms.member.domain.pdb
+/Users/joseninogarcia/Documents/ssms-member-app/ssms.member.domain/obj/Debug/net10.0/ssms.member.domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joseninogarcia/Documents/ssms-member-app/ssms.member.domain/obj/Debug/net10.0/ssms.member.domain.AssemblyInfoInputs.cache
+/Users/joseninogarcia/Documents/ssms-member-app/ssms.member.domain/obj/Debug/net10.0/ssms.member.domain.AssemblyInfo.cs
+/Users/joseninogarcia/Documents/ssms-member-app/ssms.member.domain/obj/Debug/net10.0/ssms.member.domain.csproj.CoreCompileInputs.cache
+/Users/joseninogarcia/Documents/ssms-member-app/ssms.member.domain/obj/Debug/net10.0/ssms.member.domain.dll
+/Users/joseninogarcia/Documents/ssms-member-app/ssms.member.domain/obj/Debug/net10.0/refint/ssms.member.domain.dll
+/Users/joseninogarcia/Documents/ssms-member-app/ssms.member.domain/obj/Debug/net10.0/ssms.member.domain.pdb
+/Users/joseninogarcia/Documents/ssms-member-app/ssms.member.domain/obj/Debug/net10.0/ref/ssms.member.domain.dll

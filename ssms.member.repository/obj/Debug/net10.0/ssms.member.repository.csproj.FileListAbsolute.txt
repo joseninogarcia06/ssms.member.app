@@ -1,0 +1,17 @@
+/Users/joseninogarcia/Documents/ssms-member-app/ssms.member.repository/bin/Debug/net10.0/ssms.member.repository.deps.json
+/Users/joseninogarcia/Documents/ssms-member-app/ssms.member.repository/bin/Debug/net10.0/ssms.member.repository.runtimeconfig.json
+/Users/joseninogarcia/Documents/ssms-member-app/ssms.member.repository/bin/Debug/net10.0/ssms.member.repository.dll
+/Users/joseninogarcia/Documents/ssms-member-app/ssms.member.repository/bin/Debug/net10.0/ssms.member.repository.pdb
+/Users/joseninogarcia/Documents/ssms-member-app/ssms.member.repository/bin/Debug/net10.0/ssms.member.domain.dll
+/Users/joseninogarcia/Documents/ssms-member-app/ssms.member.repository/bin/Debug/net10.0/ssms.member.domain.pdb
+/Users/joseninogarcia/Documents/ssms-member-app/ssms.member.repository/obj/Debug/net10.0/ssms.member.repository.csproj.AssemblyReference.cache
+/Users/joseninogarcia/Documents/ssms-member-app/ssms.member.repository/obj/Debug/net10.0/ssms.member.repository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joseninogarcia/Documents/ssms-member-app/ssms.member.repository/obj/Debug/net10.0/ssms.member.repository.AssemblyInfoInputs.cache
+/Users/joseninogarcia/Documents/ssms-member-app/ssms.member.repository/obj/Debug/net10.0/ssms.member.repository.AssemblyInfo.cs
+/Users/joseninogarcia/Documents/ssms-member-app/ssms.member.repository/obj/Debug/net10.0/ssms.member.repository.csproj.CoreCompileInputs.cache
+/Users/joseninogarcia/Documents/ssms-member-app/ssms.member.repository/obj/Debug/net10.0/ssms.mem.C58D2249.Up2Date
+/Users/joseninogarcia/Documents/ssms-member-app/ssms.member.repository/obj/Debug/net10.0/ssms.member.repository.dll
+/Users/joseninogarcia/Documents/ssms-member-app/ssms.member.repository/obj/Debug/net10.0/refint/ssms.member.repository.dll
+/Users/joseninogarcia/Documents/ssms-member-app/ssms.member.repository/obj/Debug/net10.0/ssms.member.repository.pdb
+/Users/joseninogarcia/Documents/ssms-member-app/ssms.member.repository/obj/Debug/net10.0/ssms.member.repository.genruntimeconfig.cache
+/Users/joseninogarcia/Documents/ssms-member-app/ssms.member.repository/obj/Debug/net10.0/ref/ssms.member.repository.dll

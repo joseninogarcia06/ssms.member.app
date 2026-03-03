@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ssms.member.app/ssms.member.app.csproj" />
+  <Project Path="ssms.member.domain/ssms.member.domain.csproj" />
+  <Project Path="ssms.member.repository/ssms.member.repository.csproj" />
+  <Project Path="ssms.member.test/ssms.member.test.csproj" />
+</Solution>
