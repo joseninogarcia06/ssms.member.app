@@ -12,7 +12,7 @@ public class LoginController : ControllerBase
         _loginService = loginService;
     }
 
-    [HttpPost]
+    [HttpPost("ValidateStaff")]
     public async Task<IActionResult> ValidateStaffAsync()
     {
         bool isSuccess = true;
