@@ -161,3 +161,6 @@
 /Users/joseninogarcia/Documents/ssms-member-app/ssms.member.app/obj/Debug/net10.0/ssms.member.app.genruntimeconfig.cache
 /Users/joseninogarcia/Documents/ssms-member-app/ssms.member.app/obj/Debug/net10.0/ref/ssms.member.app.dll
 /Users/joseninogarcia/Documents/ssms-member-app/ssms.member.app/obj/Debug/net10.0/ssms.member.app.sourcelink.json
+/Users/joseninogarcia/Documents/ssms-member-app/ssms.member.app/bin/Debug/net10.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/joseninogarcia/Documents/ssms-member-app/ssms.member.app/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/joseninogarcia/Documents/ssms-member-app/ssms.member.app/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerUI.dll
